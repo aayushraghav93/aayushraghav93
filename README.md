@@ -19,7 +19,7 @@
 
 •👯 Passionate about Problem Solving, Data Structures and Algorithms, and coffee ☕
 
-•💬 Ask me about  Maven, Spring Boot, MYSQL, Hibernate, MVC.
+•💬 Ask me about  Maven, Spring Boot, MYSQL, Hibernate, MVC, RESTful Web Services.
 
 •📫 How to reach me aayushraghav492005@gmail.com
 
@@ -62,23 +62,43 @@
 
 </div>
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-
-
 ## 📊 GitHub Stats
-![Stats](...readme-stats link...)
-![Top Langs](...top-langs link...)
 
-## 🚀 Featured Projects
-- **[Project1](...)** — Something awesome
-- **[Project2](...)** — Another cool thing
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aayushraghav93&layout=compact&theme=dark&size_weight=0&count_weight=1)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Aayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aayushraghav93&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=aayushraghav93&theme=dark&hide_border=true)](https://git.io/streak-stats)
+
+
+## ⭐ Achievements
+
+<strong>Smart India Hackathon: </strong> Grand Finalist 2024, Ministry Of Coal.
+
+<strong>Hackathons: </strong> Won 5+ National level Hackathons(12+ participation inluding Flipkart Grid and Walmart).
+
+<strong>Coding: </strong>400+ DSA problems, Profiles:- Leetcode, Hackerrank, CodeChef . Contest rating:- 1449 on LeetCode.
+
+<strong>Open Source: </strong> Hacktoberfest,2023- Solution for coding challenges, used Git for version control.
+
+<strong>NCC ’C’ Certificate- 35 UP Batallion.</strong>
+
+<strong>Special Mention MUN-</strong> for excellence in debate and diplomatic skills.
+
+
 
 ## 🔗 Connect with me
-[![LinkedIn](...)](...)
-[![Twitter](...)](...)
+<p align="center">
+  <a href="https://www.linkedin.com/in/aayush-raghav93/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</p>
+
 
 ## ⚡ Fun Fact
-I brew coffee every morning ☕
+<strong>I do powerlifting, Do long run(marathons)🏃‍♂️, read on geopolitics🧾.</strong>
+
+
 
 
 <!--
