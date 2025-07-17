@@ -85,6 +85,10 @@
 
 <strong>Special Mention MUN-</strong> for excellence in debate and diplomatic skills.
 
+## 🎖 My Holopin Badge Board
+
+[![An image of @aayushraghav93's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aayushraghav93)](https://holopin.io/@aayushraghav93)
+
 
 
 ## 🔗 Connect with me
